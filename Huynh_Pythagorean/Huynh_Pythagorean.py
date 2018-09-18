@@ -8,4 +8,5 @@ print("Hello " + str(name) + " Welcome to the Pythagorean simulator, we will now
 a = int(input("Enter a value for a: "))
 b = int(input("Enter a value for b: "))
 c = float(a**2 + b**2)
-print("Ok that number is now " + str(c))
+answer = int(c// 1/2)
+print("Ok that number is now " + str(answer))
